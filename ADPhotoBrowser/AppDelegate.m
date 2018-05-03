@@ -26,6 +26,9 @@
     NSLog(@"666");
     NSLog(@"666");
     NSLog(@"666");
+    NSLog(@"666");
+    NSLog(@"666");
+    NSLog(@"666");
     return YES;
 }
 
